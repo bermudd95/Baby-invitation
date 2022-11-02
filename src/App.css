@@ -1,0 +1,51 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+.card-container {
+  background-color: rgb(204, 204, 204);
+  align-items: center;
+  text-align: center;
+}
+
+img {
+  width: 100%;
+}
+
+.body-content {
+  width: auto;
+  background-position: bottom;
+  height: 600px;
+  padding-top: 5px;
+}
+
+.title h1 {
+  text-decoration: underline;
+}
+
+li {
+  list-style-type: none;
+}
+
+li p {
+  display: inline-block;
+  padding: 2px;
+}
+
+.questions-container h4 {
+  padding-top: 5px;
+}
+
+TextField {
+  background-color: ghostwhite;
+}
+
+
+.checkbox-container input {
+  width: 25px;
+  height: 20px;
+}
+
+.button-container {
+  padding-top: 15px;
+}
