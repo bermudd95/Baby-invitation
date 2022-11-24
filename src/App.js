@@ -23,7 +23,7 @@ function App() {
               When:
             </p>
             <p>
-              January 28th, 2023
+              February 25th, 2023
             </p>
           </li>
           <li>
@@ -53,7 +53,7 @@ function App() {
               Party starts:
             </p>
             <p>
-              3:00pm
+              1:00pm
             </p>
           </li>
           <li>
@@ -61,7 +61,7 @@ function App() {
               Food is served:
             </p>
             <p>
-              3:45pm
+              2:45pm
             </p>
           </li>
           <li>
@@ -69,15 +69,7 @@ function App() {
               Games:
             </p>
             <p>
-              5:50pm
-            </p>
-          </li>
-          <li>
-            <p>
-              Present opening:
-            </p>
-            <p>
-              7:30pm
+              3:50pm
             </p>
           </li>
           <li>
@@ -85,7 +77,7 @@ function App() {
               Party ends:
             </p>
             <p>
-              9:00pm
+              7:00pm
             </p>
           </li>
         </ul>
