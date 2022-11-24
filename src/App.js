@@ -90,6 +90,14 @@ function App() {
           </li>
         </ul>
       </div>
+      <div id='registry-container'>
+        <h1>
+          Baby Registry
+        </h1>
+        <p>
+          If you would like to see our baby registry, you can click <span><a target="_blank" href='https://www.amazon.com/baby-reg/wendy-osuna-may-2023-mountlaketerrace/2CGY89WMV121F'>here</a></span>.
+        </p>
+      </div>
       <Service/>
     </div>
   );

@@ -15,7 +15,6 @@ img {
 .body-content {
   width: auto;
   background-position: bottom;
-  height: 600px;
   padding-top: 5px;
 }
 
@@ -30,6 +29,14 @@ li {
 li p {
   display: inline-block;
   padding: 2px;
+}
+
+#registry-container {
+  padding-bottom: 10px;
+}
+
+.form-content {
+  padding-bottom: 10px;
 }
 
 .questions-container h4 {
