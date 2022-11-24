@@ -8,7 +8,8 @@ import { Button } from '@mui/material';
     const form = useRef();
   
     const sendEmail = (e) => {
-  
+      e.preventDefault();
+      
       emailjs.sendForm('service_u2f5wlu', 'template_aqibbfi', form.current, 'dkSCkT9G1nrflBiqD')
         .then((result) => {
             console.log(result.text);
