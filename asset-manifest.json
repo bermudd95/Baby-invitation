@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Baby-invitation/static/css/main.21cbeae5.css",
-    "main.js": "/Baby-invitation/static/js/main.dd810c87.js",
+    "main.js": "/Baby-invitation/static/js/main.21a35897.js",
     "static/js/787.15b6534a.chunk.js": "/Baby-invitation/static/js/787.15b6534a.chunk.js",
     "index.html": "/Baby-invitation/index.html",
     "main.21cbeae5.css.map": "/Baby-invitation/static/css/main.21cbeae5.css.map",
-    "main.dd810c87.js.map": "/Baby-invitation/static/js/main.dd810c87.js.map",
+    "main.21a35897.js.map": "/Baby-invitation/static/js/main.21a35897.js.map",
     "787.15b6534a.chunk.js.map": "/Baby-invitation/static/js/787.15b6534a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.21cbeae5.css",
-    "static/js/main.dd810c87.js"
+    "static/js/main.21a35897.js"
   ]
 }
