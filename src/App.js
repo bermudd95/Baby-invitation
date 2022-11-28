@@ -5,14 +5,14 @@ import './App.css';
 function App() {
   return (
     <div className="card-container">
-      <img className='background' src='https://images.unsplash.com/photo-1546074176-abecd33d2b53?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80'/>
+      <img className='background' src='https://images.unsplash.com/photo-1546074176-abecd33d2b53?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80' alt='' />
       <div className="title-container">
         <div className="title">
           <h1>
             You are invited!!
           </h1>
           <h3>
-            Come join us in Wendy's and Danny's baby shower!
+            Come join us in Wendy and Danny's baby shower!
           </h3>
         </div>
       </div>
