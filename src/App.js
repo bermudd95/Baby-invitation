@@ -61,23 +61,7 @@ function App() {
               Food is served:
             </p>
             <p>
-              2:45pm
-            </p>
-          </li>
-          <li>
-            <p>
-              Games:
-            </p>
-            <p>
-              3:50pm
-            </p>
-          </li>
-          <li>
-            <p>
-              Party ends:
-            </p>
-            <p>
-              7:00pm
+              3:00pm - 5:00pm
             </p>
           </li>
         </ul>
